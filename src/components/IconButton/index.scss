@@ -1,0 +1,12 @@
+.icon-button {
+  border-radius: 50%;
+  &:hover {
+    background: rgba(192, 192, 192, 0.2);
+  }
+  padding: 8px;
+  .icon {
+    cursor: pointer;
+    &:hover {
+    }
+  }
+}
